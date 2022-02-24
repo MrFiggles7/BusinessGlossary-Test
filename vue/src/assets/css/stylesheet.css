@@ -1,0 +1,12 @@
+.home-row {
+    justify-content: center;
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: .5em;
+}
+
+#footer {
+    position:fixed;
+    bottom:0;
+}
